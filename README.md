@@ -42,7 +42,7 @@ Before Cognumi, I spent years in cybersecurity research. My master's thesis comp
 
 I write about AI operations, agentic workflows, and what cybersecurity taught me about building reliable autonomous systems.
 
-→ Read at [yourdomain.com/blog]([https://yourdomain.com/blog](https://rumi7911.github.io/portfolio/))
+→ Read at (https://rumi7911.github.io/portfolio/)
 
 ## Open to
 
